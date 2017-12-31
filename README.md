@@ -1,5 +1,5 @@
 # op_order
-oneprovider 自动刷香港
+香港
 
 脚本默认 查询首个可以 Create VM的Plan 进行刷单操作。
 
